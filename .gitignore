@@ -1,0 +1,28 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Generated vector stores and retrieval indexes
+data/chroma_store/
+data/bm25_index.pkl
+
+# Generated raw data (review before committing)
+# data/raw/
