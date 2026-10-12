@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CPA-1",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Section 2(47)",
+    "title": "Unfair Trade Practice — Deposit Retention",
+    "text": "A trade practice that adopts any unfair method or deceives a consumer, including a seller or service provider unreasonably withholding a refundable security deposit after the consumer has fulfilled the conditions for its return, is an unfair trade practice under this Act."
+  },
+  {
+    "id": "CPA-2",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Section 35",
+    "title": "Manner in which complaint shall be made",
+    "text": "A complaint may be filed by a consumer with the District Consumer Disputes Redressal Commission where the value of goods or services paid does not exceed one crore rupees. The complaint should include the facts of the dispute, the relief sought, and supporting documents such as receipts or agreements."
+  },
+  {
+    "id": "MTA-1",
+    "act": "Model Tenancy Act, 2021",
+    "section": "Section 10(1)",
+    "title": "Security Deposit Limit",
+    "text": "For residential premises, the landlord shall not collect a security deposit exceeding two months' rent. For non-residential premises, the deposit shall not exceed six months' rent."
+  },
+  {
+    "id": "MTA-2",
+    "act": "Model Tenancy Act, 2021",
+    "section": "Section 10(3)",
+    "title": "Return of Security Deposit",
+    "text": "The landlord shall return the security deposit to the tenant, after making due deductions for damages or unpaid dues, at the time of taking back vacant possession of the premises. If the landlord has NOT returned the deposit within one month of the tenant vacating the premises, the tenant may approach the Rent Authority for recovery."
+  },
+  {
+    "id": "MTA-3",
+    "act": "Model Tenancy Act, 2021",
+    "section": "Section 10(4)",
+    "title": "Deposit Returned Within Time",
+    "text": "Where the landlord HAS returned the security deposit within the stipulated one-month period after due deductions, no further claim for delay shall lie against the landlord."
+  },
+  {
+    "id": "PWA-1",
+    "act": "Payment of Wages Act, 1936",
+    "section": "Section 5",
+    "title": "Time of Payment of Wages",
+    "text": "Wages of an employed person shall be paid before the expiry of the seventh day (for establishments with fewer than 1000 workers) or the tenth day (for larger establishments) after the last day of the wage period. Delay beyond this constitutes a violation."
+  },
+  {
+    "id": "PWA-2",
+    "act": "Payment of Wages Act, 1936",
+    "section": "Section 15",
+    "title": "Claims Arising Out of Deductions or Delay in Wages",
+    "text": "An employee whose wages have been delayed or unlawfully deducted may file an application before the Authority appointed under this Act, ordinarily within 12 months of the date the wages became due, seeking payment along with compensation."
+  },
+  {
+    "id": "NALSA-1",
+    "act": "NALSA Free Legal Aid Guidelines",
+    "section": "Eligibility Clause 4",
+    "title": "Who Can Access Free Legal Aid",
+    "text": "Free legal aid is available to, among others, persons with an annual income below the limit prescribed by the respective State Legal Services Authority, women, children, persons with disabilities, and industrial workmen, for representation before courts and tribunals."
+  }
+]
