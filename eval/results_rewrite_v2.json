@@ -1,0 +1,1279 @@
+{
+  "label": "rewrite_v2",
+  "overall": {
+    "hit@1": 0.6818181818181818,
+    "hit@3": 0.9090909090909091,
+    "hit@5": 0.9090909090909091,
+    "mrr": 0.8075757575757575,
+    "n": 44
+  },
+  "rows": [
+    {
+      "id": "Q01",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "I bought a defective phone and the shop refuses to refund me. What can I do?",
+      "gold": [
+        "CPA|Section 39",
+        "CPA|Section 2(10)",
+        "CPA|Section 35"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 2(47)",
+        "CPA|Section 39",
+        "CPA|Section 2(6)",
+        "CPA|Section 82",
+        "CPA|Section 83"
+      ],
+      "top_score": -2.8690755367279053,
+      "search_query": "I bought a defective phone and the shop refuses to refund me. What can I do?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "Q02",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Where and how do I file a consumer complaint?",
+      "gold": [
+        "CPA|Section 35",
+        "CPA|Section 34"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 35",
+        "CPA|Section 17",
+        "CPA|Section 34",
+        "CPA|Section 47",
+        "CPA|Section 38"
+      ],
+      "top_score": 4.348203182220459,
+      "search_query": "Where and how do I file a consumer complaint?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q03",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What is the time limit for filing a consumer complaint?",
+      "gold": [
+        "CPA|Section 69"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 69",
+        "CPA|Section 35",
+        "CPA|Section 38",
+        "CPA|Section 47",
+        "CPA|Section 34"
+      ],
+      "top_score": 3.9997642040252686,
+      "search_query": "What is the time limit for filing a consumer complaint?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q04",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Who counts as a consumer under the Consumer Protection Act?",
+      "gold": [
+        "CPA|Section 2(7)"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 35",
+        "CPA|Section 13",
+        "CPA|Section 2(7)",
+        "CPA|Section 2(9)",
+        "CPA|Section 6"
+      ],
+      "top_score": 1.650613784790039,
+      "search_query": "Who counts as a consumer under the Consumer Protection Act?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.3333333333333333
+    },
+    {
+      "id": "Q05",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What is deficiency in service?",
+      "gold": [
+        "CPA|Section 2(11)"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 2(11)",
+        "CPA|Section 85",
+        "CPA|Section 2(6)",
+        "CPA|Section 2(34)",
+        "CPA|Section 2(47)"
+      ],
+      "top_score": 6.226692199707031,
+      "search_query": "What is deficiency in service?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q06",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What is an unfair trade practice?",
+      "gold": [
+        "CPA|Section 2(47)"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 2(47)",
+        "CPA|Section 94",
+        "CPA|Section 2(6)",
+        "CPA|Section 20",
+        "CPA|Section 2(41)"
+      ],
+      "top_score": 10.672735214233398,
+      "search_query": "What is an unfair trade practice?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q07",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Can I appeal if the District Commission decides against me?",
+      "gold": [
+        "CPA|Section 41"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 41",
+        "CPA|Section 73",
+        "CPA|Section 47",
+        "CPA|Section 68",
+        "CPA|Section 67"
+      ],
+      "top_score": 4.962589740753174,
+      "search_query": "Can I appeal if the District Commission decides against me?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q08",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What is the punishment for a false or misleading advertisement?",
+      "gold": [
+        "CPA|Section 89"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 89",
+        "CPA|Section 21",
+        "CPA|Section 2(28)",
+        "CPA|Section 17",
+        "CPA|Section 22"
+      ],
+      "top_score": 10.859891891479492,
+      "search_query": "What is the punishment for a false or misleading advertisement?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q09",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "A product injured me. Can I claim from the manufacturer?",
+      "gold": [
+        "CPA|Section 84",
+        "CPA|Section 83"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 82",
+        "CPA|Section 83",
+        "CPA|Section 90",
+        "CPA|Section 86",
+        "CPA|Section 87"
+      ],
+      "top_score": 1.3725135326385498,
+      "search_query": "A product injured me. Can I claim from the manufacturer?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "Q10",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What happens if the seller ignores the District Commission's order?",
+      "gold": [
+        "CPA|Section 72",
+        "CPA|Section 71"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 72",
+        "CPA|Section 41",
+        "CPA|Section 39",
+        "CPA|Section 40",
+        "CPA|Section 36"
+      ],
+      "top_score": -0.2517485022544861,
+      "search_query": "What happens if the seller ignores the District Commission's order?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q11",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Can a consumer dispute be settled through mediation?",
+      "gold": [
+        "CPA|Section 37",
+        "CPA|Section 74",
+        "CPA|Section 79",
+        "CPA|Section 80"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 80",
+        "CPA|Section 37",
+        "CPA|Section 81",
+        "CPA|Section 79",
+        "CPA|Section 38"
+      ],
+      "top_score": 10.471714973449707,
+      "search_query": "Can a consumer dispute be settled through mediation?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q12",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Up to what claim value can the District Commission hear a case?",
+      "gold": [
+        "CPA|Section 34"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 34",
+        "CPA|Section 47",
+        "CPA|Section 39",
+        "CPA|Section 101",
+        "CPA|Section 36"
+      ],
+      "top_score": 2.930532693862915,
+      "search_query": "Up to what claim value can the District Commission hear a case?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q13",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "An online shopping site sold me a fake product. What are my rights?",
+      "gold": [
+        "CPA|Section 94",
+        "CPA|Section 2(16)",
+        "CPA|Section 2(43)"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 94",
+        "CPA|Section 90",
+        "CPA|Section 83",
+        "CPA|Section 2(34)",
+        "CPA|Section 86"
+      ],
+      "top_score": -2.001335382461548,
+      "search_query": "An online shopping site sold me a fake product. What are my rights?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q14",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "My employer deducted my salary without telling me. What can I do?",
+      "gold": [
+        "PWA|Section 7",
+        "PWA|Section 15"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 7",
+        "PWA|Section 9",
+        "PWA|Section 10",
+        "PWA|Section 3"
+      ],
+      "top_score": -0.185563325881958,
+      "search_query": "My employer deducted my salary without telling me. What can I do?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q15",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "My employer has not paid my salary for two months. What can I do?",
+      "gold": [
+        "PWA|Section 5",
+        "PWA|Section 15"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 3",
+        "PWA|Section 25A",
+        "CGRCA|Section 11",
+        "PWA|Section 5"
+      ],
+      "top_score": -3.4202497005462646,
+      "search_query": "My employer has not paid my salary for two months. What can I do?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q16",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "By which day must wages be paid after the wage period ends?",
+      "gold": [
+        "PWA|Section 5"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 5",
+        "PWA|Section 26",
+        "PWA|Section 8",
+        "PWA|Section 17",
+        "PWA|Section 15"
+      ],
+      "top_score": 2.437473773956299,
+      "search_query": "By which day must wages be paid after the wage period ends?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q17",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Can my employer fine me?",
+      "gold": [
+        "PWA|Section 8"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 8",
+        "PWA|Section 20",
+        "PWA|Section 7",
+        "PWA|Section 15",
+        "PWA|Section 3"
+      ],
+      "top_score": 0.7124633193016052,
+      "search_query": "Can my employer fine me?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q18",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Can my wages be cut for being absent from work?",
+      "gold": [
+        "PWA|Section 9"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 9",
+        "PWA|Section 7",
+        "PWA|Section 11",
+        "PWA|Section 15",
+        "PWA|Section 10"
+      ],
+      "top_score": 3.0263593196868896,
+      "search_query": "Can my wages be cut for being absent from work?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q19",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "My wage claim was rejected. Can I appeal?",
+      "gold": [
+        "PWA|Section 17"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 17",
+        "PWA|Section 22",
+        "PWA|Section 15",
+        "CGRCA|Section 11",
+        "CPA|Section 51"
+      ],
+      "top_score": 0.20089620351791382,
+      "search_query": "My wage claim was rejected. Can I appeal?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q20",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What is the penalty for an employer who breaks the Payment of Wages Act?",
+      "gold": [
+        "PWA|Section 20"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 20",
+        "PWA|Section 7",
+        "PWA|Section 15",
+        "PWA|Section 3",
+        "PWA|Section 17"
+      ],
+      "top_score": 3.87866473197937,
+      "search_query": "What is the penalty for an employer who breaks the Payment of Wages Act?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q21",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Can I go to a civil court to recover unpaid wages?",
+      "gold": [
+        "PWA|Section 22"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 22",
+        "PWA|Section 15",
+        "PWA|Section 21",
+        "PWA|Section 17",
+        "PWA|Section 18"
+      ],
+      "top_score": 0.19087287783622742,
+      "search_query": "Can I go to a civil court to recover unpaid wages?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q22",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Can I sign an agreement giving up my rights under the wages law?",
+      "gold": [
+        "PWA|Section 23"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 1",
+        "PWA|Section 26",
+        "PWA|Section 9",
+        "PWA|Section 7"
+      ],
+      "top_score": -4.09387731552124,
+      "search_query": "Can I sign an agreement giving up my rights under the wages law?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": false,
+      "hit@5": false,
+      "rr": 0.0
+    },
+    {
+      "id": "Q23",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "My landlord isn't returning my security deposit. What can I do?",
+      "gold": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Section 12"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 4",
+        "CGRCA|Schedule 1",
+        "CGRCA|Section 12"
+      ],
+      "top_score": -2.000286340713501,
+      "search_query": "My landlord isn't returning my security deposit. What can I do?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q24",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Can my landlord throw me out without a court order?",
+      "gold": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 2",
+        "CGRCA|Section 12"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Section 13",
+        "CGRCA|Schedule 2",
+        "CGRCA|Section 11",
+        "CGRCA|Section 2",
+        "CGRCA|Section 10"
+      ],
+      "top_score": -3.143449544906616,
+      "search_query": "Can my landlord throw me out without a court order?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "Q25",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "On what grounds can a landlord ask for eviction of a tenant?",
+      "gold": [
+        "CGRCA|Schedule 2"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 3",
+        "CGRCA|Section 2",
+        "CGRCA|Section 13",
+        "CGRCA|Section 11"
+      ],
+      "top_score": 7.605538845062256,
+      "search_query": "On what grounds can a landlord ask for eviction of a tenant?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q26",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Who hears rent disputes in Chhattisgarh?",
+      "gold": [
+        "CGRCA|Section 7",
+        "CGRCA|Section 9",
+        "CGRCA|Section 8"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Section 6",
+        "CGRCA|Section 9",
+        "CGRCA|Section 13",
+        "CGRCA|Section 10",
+        "CGRCA|Section 8"
+      ],
+      "top_score": 2.7202703952789307,
+      "search_query": "Who hears rent disputes in Chhattisgarh?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "Q27",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Where do I appeal against a Rent Controller's order?",
+      "gold": [
+        "CGRCA|Section 13"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Section 13",
+        "CGRCA|Section 11",
+        "CGRCA|Section 10",
+        "CPA|Section 41",
+        "CPA|Section 73"
+      ],
+      "top_score": 6.730133533477783,
+      "search_query": "Where do I appeal against a Rent Controller's order?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q28",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Is a written tenancy agreement required?",
+      "gold": [
+        "CGRCA|Section 4"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Section 4",
+        "CGRCA|Section 2",
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 1",
+        "CPA|Section 80"
+      ],
+      "top_score": 2.426192045211792,
+      "search_query": "Is a written tenancy agreement required?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q29",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Is the tenant responsible for repairs to the house?",
+      "gold": [
+        "CGRCA|Schedule 4",
+        "CGRCA|Schedule 3"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 4",
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 1",
+        "CGRCA|Section 11"
+      ],
+      "top_score": -0.49304986000061035,
+      "search_query": "Is the tenant responsible for repairs to the house?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q30",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Who is entitled to free legal aid?",
+      "gold": [
+        "LSAA|Section 12",
+        "LSAA|Section 13"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "LSAA|Section 12",
+        "LSAA|Section 13",
+        "LSAA|Section 11A",
+        "LSAA|Section 8A",
+        "LSAA|Section 24"
+      ],
+      "top_score": -3.729526996612549,
+      "search_query": "Who is entitled to free legal aid?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q31",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What is a Lok Adalat and can it settle my dispute?",
+      "gold": [
+        "LSAA|Section 19",
+        "LSAA|Section 20",
+        "LSAA|Section 21"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "LSAA|Section 22C",
+        "LSAA|Section 19",
+        "LSAA|Section 21",
+        "LSAA|Section 20",
+        "LSAA|Section 22D"
+      ],
+      "top_score": 3.317948341369629,
+      "search_query": "What is a Lok Adalat and can it settle my dispute?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "Q32",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "What does the District Legal Services Authority do?",
+      "gold": [
+        "LSAA|Section 10",
+        "LSAA|Section 9"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "LSAA|Section 10",
+        "LSAA|Section 9",
+        "LSAA|Section 11",
+        "LSAA|Section 17",
+        "LSAA|Section 11B"
+      ],
+      "top_score": 9.250088691711426,
+      "search_query": "What does the District Legal Services Authority do?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q33",
+      "category": "straightforward",
+      "lang": "en",
+      "question": "Is the award of a Lok Adalat final?",
+      "gold": [
+        "LSAA|Section 21"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "LSAA|Section 22E",
+        "LSAA|Section 21",
+        "LSAA|Section 20",
+        "LSAA|Section 22C",
+        "LSAA|Section 22D"
+      ],
+      "top_score": 10.778472900390625,
+      "search_query": "Is the award of a Lok Adalat final?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "Q34",
+      "category": "hinglish",
+      "lang": "hinglish",
+      "question": "mera landlord security deposit wapas nahi kar raha, kya karun?",
+      "gold": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Section 12"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 4",
+        "CGRCA|Schedule 1",
+        "CGRCA|Section 12"
+      ],
+      "top_score": -1.8808605670928955,
+      "search_query": "My house owner (landlord) is not returning my security deposit, what should I do?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q35",
+      "category": "hindi",
+      "lang": "hi",
+      "question": "मेरी सैलरी नहीं मिली",
+      "gold": [
+        "PWA|Section 5",
+        "PWA|Section 15"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 25A",
+        "PWA|Section 21",
+        "PWA|Section 2",
+        "PWA|Section 9"
+      ],
+      "top_score": -2.5953967571258545,
+      "search_query": "Why have I not received my salary (wages)?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q36",
+      "category": "hinglish",
+      "lang": "hinglish",
+      "question": "malik ne meri salary se bina bataye paise kaat liye",
+      "gold": [
+        "PWA|Section 7",
+        "PWA|Section 15"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 7",
+        "PWA|Section 15",
+        "PWA|Section 11",
+        "PWA|Section 9",
+        "PWA|Section 10"
+      ],
+      "top_score": -1.8017752170562744,
+      "search_query": "Did my boss (employer) deduct money from my salary without informing me?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q37",
+      "category": "hinglish",
+      "lang": "hinglish",
+      "question": "maine kharab phone kharida, dukan paise wapas nahi de rahi",
+      "gold": [
+        "CPA|Section 39",
+        "CPA|Section 35",
+        "CPA|Section 2(10)"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 82",
+        "CPA|Section 83",
+        "CPA|Section 39",
+        "CPA|Section 2(47)",
+        "CPA|Section 87"
+      ],
+      "top_score": -4.293811798095703,
+      "search_query": "Can I get a refund (money back) from the shopkeeper (seller) for a defective phone I purchased?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.3333333333333333
+    },
+    {
+      "id": "Q38",
+      "category": "hindi",
+      "lang": "hi",
+      "question": "मुझे मुफ्त कानूनी सहायता कैसे मिल सकती है?",
+      "gold": [
+        "LSAA|Section 12",
+        "LSAA|Section 13"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "LSAA|Section 15",
+        "LSAA|Section 17",
+        "LSAA|Section 13",
+        "LSAA|Section 16",
+        "LSAA|Section 6"
+      ],
+      "top_score": -4.402993679046631,
+      "search_query": "How can I obtain free legal aid (free lawyer)?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.3333333333333333
+    },
+    {
+      "id": "Q39",
+      "category": "hindi",
+      "lang": "hi",
+      "question": "क्या मकान मालिक बिना कोर्ट के मुझे घर से निकाल सकता है?",
+      "gold": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 2"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Section 13",
+        "CGRCA|Section 12",
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 3",
+        "CGRCA|Section 2"
+      ],
+      "top_score": -4.345325946807861,
+      "search_query": "Can a house owner (landlord) evict me from my home without going to court?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.3333333333333333
+    },
+    {
+      "id": "Q40",
+      "category": "negation",
+      "lang": "en",
+      "question": "My landlord returned my deposit on time. Can I still complain about the deposit?",
+      "gold": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Section 12"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Schedule 2",
+        "CPA|Section 38",
+        "CPA|Section 39",
+        "CGRCA|Section 13",
+        "CGRCA|Schedule 4"
+      ],
+      "top_score": -4.041877269744873,
+      "search_query": "My landlord returned my deposit on time. Can I still complain about the deposit?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": false,
+      "hit@5": false,
+      "rr": 0.0
+    },
+    {
+      "id": "Q41",
+      "category": "negation",
+      "lang": "en",
+      "question": "My employer paid my salary on time but I still want to file a wage claim. Can I?",
+      "gold": [
+        "PWA|Section 5",
+        "PWA|Section 15"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 5",
+        "PWA|Section 3",
+        "PWA|Section 17",
+        "PWA|Section 7"
+      ],
+      "top_score": -2.062329053878784,
+      "search_query": "My employer paid my salary on time but I still want to file a wage claim. Can I?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q42",
+      "category": "negation",
+      "lang": "en",
+      "question": "The shop already offered me a full refund. Can I still file a consumer complaint?",
+      "gold": [
+        "CPA|Section 35",
+        "CPA|Section 39"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 35",
+        "CPA|Section 2(6)",
+        "CPA|Section 17",
+        "CPA|Section 38",
+        "CPA|Section 39"
+      ],
+      "top_score": -2.9423177242279053,
+      "search_query": "The shop already offered me a full refund. Can I still file a consumer complaint?",
+      "domains": null,
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "Q43",
+      "category": "multi_domain",
+      "lang": "en",
+      "question": "My employer cut my salary and my landlord also won't return my deposit. What can I do?",
+      "gold": [
+        "PWA|Section 7",
+        "CGRCA|Schedule 3"
+      ],
+      "mode": "all",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 17",
+        "PWA|Section 15",
+        "PWA|Section 3",
+        "PWA|Section 25A",
+        "PWA|Section 7"
+      ],
+      "top_score": -4.350964546203613,
+      "search_query": "My employer cut my salary and my landlord also won't return my deposit. What can I do?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": false,
+      "hit@5": false,
+      "rr": 0.2
+    },
+    {
+      "id": "Q44",
+      "category": "multi_domain",
+      "lang": "en",
+      "question": "Can I get free legal aid to file a wage claim against my employer?",
+      "gold": [
+        "LSAA|Section 12",
+        "PWA|Section 15"
+      ],
+      "mode": "all",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 17",
+        "PWA|Section 21",
+        "PWA|Section 3",
+        "PWA|Section 7"
+      ],
+      "top_score": -2.7454988956451416,
+      "search_query": "Can I get free legal aid to file a wage claim against my employer?",
+      "domains": null,
+      "hit@1": false,
+      "hit@3": false,
+      "hit@5": false,
+      "rr": 1.0
+    },
+    {
+      "id": "Q45",
+      "category": "defer",
+      "lang": "en",
+      "question": "The police arrested my brother last night. What should I do?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 90",
+        "CGRCA|Section 11",
+        "CPA|Section 22",
+        "CPA|Section 72",
+        "CGRCA|Schedule 3"
+      ],
+      "top_score": -6.477734565734863,
+      "search_query": "The police arrested my brother last night. What should I do?",
+      "domains": null
+    },
+    {
+      "id": "Q46",
+      "category": "defer",
+      "lang": "en",
+      "question": "My husband beats me and I am scared to go home.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Schedule 4",
+        "CPA|Section 2(22)",
+        "CPA|Section 2(9)",
+        "PWA|Section 17",
+        "CPA|Section 51"
+      ],
+      "top_score": -5.733371257781982,
+      "search_query": "My husband beats me and I am scared to go home.",
+      "domains": null
+    },
+    {
+      "id": "Q47",
+      "category": "defer",
+      "lang": "en",
+      "question": "Bailiffs are at my door right now to evict me today.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Section 11",
+        "CGRCA|Schedule 2",
+        "CPA|Section 2(9)",
+        "CGRCA|Schedule 4",
+        "CGRCA|Section 2"
+      ],
+      "top_score": -6.4817633628845215,
+      "search_query": "Bailiffs are at my door right now to evict me today.",
+      "domains": null
+    },
+    {
+      "id": "Q48",
+      "category": "defer",
+      "lang": "en",
+      "question": "How do I get a divorce?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 80",
+        "CPA|Section 38",
+        "CPA|Section 37",
+        "CPA|Section 81",
+        "CPA|Section 58"
+      ],
+      "top_score": -3.693838357925415,
+      "search_query": "How do I get a divorce?",
+      "domains": null
+    },
+    {
+      "id": "Q49",
+      "category": "defer",
+      "lang": "en",
+      "question": "A cheque I received has bounced. Can I file a case?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 65",
+        "LSAA|Section 22C",
+        "CPA|Section 24",
+        "PWA|Section 21",
+        "CPA|Section 2(6)"
+      ],
+      "top_score": -4.013617038726807,
+      "search_query": "A cheque I received has bounced. Can I file a case?",
+      "domains": null
+    },
+    {
+      "id": "Q50",
+      "category": "defer",
+      "lang": "en",
+      "question": "Which stocks should I buy this month?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 47",
+        "CPA|Section 102",
+        "CPA|Section 58",
+        "CPA|Section 20",
+        "CPA|Section 39"
+      ],
+      "top_score": -6.4150309562683105,
+      "search_query": "Which stocks should I buy this month?",
+      "domains": null
+    },
+    {
+      "id": "Q51",
+      "category": "defer",
+      "lang": "hinglish",
+      "question": "mere pati mujhe maarte hain, mujhe kya karna chahiye?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Schedule 4",
+        "CPA|Section 38",
+        "CGRCA|Schedule 3",
+        "CPA|Section 39",
+        "CGRCA|Schedule 2"
+      ],
+      "top_score": -5.74285364151001,
+      "search_query": "My husband (spouse) beats me; what should I do?",
+      "domains": null
+    }
+  ]
+}

@@ -26,3 +26,16 @@ data/bm25_index.pkl
 
 # Generated raw data (review before committing)
 # data/raw/
+
+# Scratch files and chat logs (not part of the project)
+LexiRag_project_context.txt
+project_code_review.txt
+generate_corrected.py
+check_wages.py
+inspect_legal_text.py
+data/section_list.txt
+
+# Cached model answers (regenerated automatically)
+data/rewrite_cache.json
+data/domain_cache.json
+eval/scope_cache.json

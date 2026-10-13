@@ -1,0 +1,614 @@
+{
+  "label": "holdout_rewrite",
+  "overall": {
+    "hit@1": 0.6428571428571429,
+    "hit@3": 0.9285714285714286,
+    "hit@5": 0.9285714285714286,
+    "mrr": 0.7619047619047619,
+    "n": 14
+  },
+  "rows": [
+    {
+      "id": "H01",
+      "category": "holdout",
+      "lang": "en",
+      "question": "My neighbour's tree fell on my car and he refuses to pay for the damage.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Section 11",
+        "PWA|Section 20",
+        "CGRCA|Schedule 4",
+        "CPA|Section 2(22)",
+        "PWA|Section 10"
+      ],
+      "top_score": -6.9286208152771,
+      "search_query": "My neighbour's tree fell on my car and he refuses to pay for the damage."
+    },
+    {
+      "id": "H02",
+      "category": "holdout",
+      "lang": "en",
+      "question": "A builder has delayed handing over my flat by three years. What can I do?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Section 11",
+        "CGRCA|Section 12",
+        "PWA|Section 15",
+        "CPA|Section 91",
+        "CPA|Section 90"
+      ],
+      "top_score": -4.516480445861816,
+      "search_query": "A builder has delayed handing over my flat by three years. What can I do?"
+    },
+    {
+      "id": "H03",
+      "category": "holdout",
+      "lang": "en",
+      "question": "My boss fired me yesterday without any notice or reason.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Schedule 2",
+        "CPA|Section 65",
+        "PWA|Section 9",
+        "PWA|Section 8",
+        "CPA|Section 38"
+      ],
+      "top_score": -6.411167621612549,
+      "search_query": "My boss fired me yesterday without any notice or reason."
+    },
+    {
+      "id": "H04",
+      "category": "holdout",
+      "lang": "en",
+      "question": "Someone keeps calling me and threatening to ruin my reputation online.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 89",
+        "CPA|Section 17",
+        "CPA|Section 2(6)",
+        "CPA|Section 35",
+        "CPA|Section 2(7)"
+      ],
+      "top_score": -7.486413955688477,
+      "search_query": "Someone keeps calling me and threatening to ruin my reputation online."
+    },
+    {
+      "id": "H05",
+      "category": "holdout",
+      "lang": "en",
+      "question": "I want to adopt a child. What is the procedure?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 38",
+        "CPA|Section 70",
+        "LSAA|Section 12",
+        "CPA|Section 79",
+        "CGRCA|Schedule 3"
+      ],
+      "top_score": -4.12360954284668,
+      "search_query": "I want to adopt a child. What is the procedure?"
+    },
+    {
+      "id": "H06",
+      "category": "holdout",
+      "lang": "en",
+      "question": "The school is refusing to give my son admission.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 38",
+        "CPA|Section 21",
+        "LSAA|Section 11",
+        "LSAA|Section 8",
+        "CPA|Section 37"
+      ],
+      "top_score": -7.457927227020264,
+      "search_query": "The school is refusing to give my son admission."
+    },
+    {
+      "id": "H07",
+      "category": "holdout",
+      "lang": "en",
+      "question": "My brother is trying to take my share of our father's land.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Schedule 1",
+        "CGRCA|Section 2",
+        "LSAA|Section 22",
+        "CPA|Section 65",
+        "CGRCA|Section 4"
+      ],
+      "top_score": -8.122641563415527,
+      "search_query": "My brother is trying to take my share of our father's land."
+    },
+    {
+      "id": "H08",
+      "category": "holdout",
+      "lang": "en",
+      "question": "My ex-partner refuses to return the money I lent for his business.",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "PWA|Section 20",
+        "CPA|Section 65",
+        "CPA|Section 2(47)",
+        "PWA|Section 9",
+        "PWA|Section 21"
+      ],
+      "top_score": -4.702606678009033,
+      "search_query": "My ex-partner refuses to return the money I lent for his business."
+    },
+    {
+      "id": "H09",
+      "category": "holdout",
+      "lang": "en",
+      "question": "How do I register a trademark for my small shop?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 22",
+        "PWA|Section 8",
+        "CPA|Section 35",
+        "CPA|Section 38",
+        "CPA|Section 81"
+      ],
+      "top_score": -4.892759799957275,
+      "search_query": "How do I register a trademark for my small shop?"
+    },
+    {
+      "id": "H10",
+      "category": "holdout",
+      "lang": "en",
+      "question": "Can I get a passport if I have a pending court matter?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "LSAA|Section 12",
+        "CPA|Section 48",
+        "PWA|Section 22",
+        "PWA|Section 16",
+        "PWA|Section 17"
+      ],
+      "top_score": -3.5371053218841553,
+      "search_query": "Can I get a passport if I have a pending court matter?"
+    },
+    {
+      "id": "H11",
+      "category": "holdout",
+      "lang": "hi",
+      "question": "मेरे पड़ोसी ने मेरी दीवार तोड़ दी है, मैं क्या करूँ?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 4",
+        "CGRCA|Section 12",
+        "CPA|Section 39",
+        "CPA|Section 38"
+      ],
+      "top_score": -5.2376322746276855,
+      "search_query": "What should I do if my neighbor has broken my wall?"
+    },
+    {
+      "id": "H12",
+      "category": "holdout",
+      "lang": "hinglish",
+      "question": "meri company ne mujhe bina notice ke kaam se hata diya",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "PWA|Section 9",
+        "PWA|Section 8",
+        "PWA|Section 7",
+        "PWA|Section 25",
+        "CPA|Section 65"
+      ],
+      "top_score": -1.9375851154327393,
+      "search_query": "Can my company dismiss me from work without notice?"
+    },
+    {
+      "id": "H13",
+      "category": "holdout",
+      "lang": "hinglish",
+      "question": "mere bete ko school mein admission nahi mil raha",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 38",
+        "CPA|Section 36",
+        "CPA|Section 12",
+        "LSAA|Section 19",
+        "PWA|Section 15"
+      ],
+      "top_score": -7.749820232391357,
+      "search_query": "Why is my son not getting admission to school?"
+    },
+    {
+      "id": "H14",
+      "category": "holdout",
+      "lang": "hinglish",
+      "question": "meri gaadi ka accident ho gaya, muavza kaise milega?",
+      "gold": [],
+      "mode": "any",
+      "should_defer": true,
+      "retrieved": [
+        "CPA|Section 82",
+        "CPA|Section 2(22)",
+        "PWA|Section 7",
+        "CPA|Section 87",
+        "PWA|Section 21"
+      ],
+      "top_score": -5.442158222198486,
+      "search_query": "My car was in an accident; how will I receive compensation?"
+    },
+    {
+      "id": "H15",
+      "category": "holdout",
+      "lang": "en",
+      "question": "The shopkeeper sold me a laptop with a faulty screen and now says no returns. Can I take him to consumer court?",
+      "gold": [
+        "CPA|Section 35",
+        "CPA|Section 39",
+        "CPA|Section 2(10)"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 39",
+        "CPA|Section 86",
+        "CPA|Section 85",
+        "CPA|Section 38",
+        "CPA|Section 92"
+      ],
+      "top_score": -6.539921283721924,
+      "search_query": "The shopkeeper sold me a laptop with a faulty screen and now says no returns. Can I take him to consumer court?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H16",
+      "category": "holdout",
+      "lang": "en",
+      "question": "How many years do I have to file a case against a company that cheated me as a customer?",
+      "gold": [
+        "CPA|Section 69"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 69",
+        "CPA|Section 89",
+        "CPA|Section 38",
+        "CPA|Section 96",
+        "CPA|Section 73"
+      ],
+      "top_score": -2.270761728286743,
+      "search_query": "How many years do I have to file a case against a company that cheated me as a customer?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H17",
+      "category": "holdout",
+      "lang": "en",
+      "question": "I lost my consumer case at the district level. Where do I go next?",
+      "gold": [
+        "CPA|Section 41"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 39",
+        "CPA|Section 81",
+        "CPA|Section 35",
+        "CPA|Section 28",
+        "CPA|Section 34"
+      ],
+      "top_score": -2.1256191730499268,
+      "search_query": "I lost my consumer case at the district level. Where do I go next?",
+      "hit@1": false,
+      "hit@3": false,
+      "hit@5": false,
+      "rr": 0.0
+    },
+    {
+      "id": "H18",
+      "category": "holdout",
+      "lang": "en",
+      "question": "Is a company allowed to run an advertisement that lies about its product? Is there any punishment?",
+      "gold": [
+        "CPA|Section 89"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 89",
+        "CPA|Section 21",
+        "CPA|Section 87",
+        "CPA|Section 90",
+        "CPA|Section 2(28)"
+      ],
+      "top_score": 0.22391782701015472,
+      "search_query": "Is a company allowed to run an advertisement that lies about its product? Is there any punishment?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H19",
+      "category": "holdout",
+      "lang": "en",
+      "question": "My salary for last month came 20 days late. Is that allowed?",
+      "gold": [
+        "PWA|Section 5",
+        "PWA|Section 15"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 5",
+        "PWA|Section 15",
+        "PWA|Section 17",
+        "PWA|Section 9",
+        "PWA|Section 4"
+      ],
+      "top_score": -6.0855231285095215,
+      "search_query": "My salary for last month came 20 days late. Is that allowed?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H20",
+      "category": "holdout",
+      "lang": "en",
+      "question": "The factory manager cut some money from my wages for being late. Can he do that?",
+      "gold": [
+        "PWA|Section 7",
+        "PWA|Section 8",
+        "PWA|Section 9"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 3",
+        "PWA|Section 8",
+        "PWA|Section 9",
+        "PWA|Section 7"
+      ],
+      "top_score": -4.649905681610107,
+      "search_query": "The factory manager cut some money from my wages for being late. Can he do that?",
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.3333333333333333
+    },
+    {
+      "id": "H21",
+      "category": "holdout",
+      "lang": "en",
+      "question": "If the wage authority throws out my complaint, can I challenge that decision?",
+      "gold": [
+        "PWA|Section 17"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 17",
+        "PWA|Section 22",
+        "CPA|Section 17",
+        "PWA|Section 21"
+      ],
+      "top_score": -1.9368398189544678,
+      "search_query": "If the wage authority throws out my complaint, can I challenge that decision?",
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "H22",
+      "category": "holdout",
+      "lang": "en",
+      "question": "My landlord cut off my water supply to make me leave. What are my rights?",
+      "gold": [
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 1",
+        "CGRCA|Section 12"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Schedule 1",
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 4",
+        "CGRCA|Section 12"
+      ],
+      "top_score": -0.49951866269111633,
+      "search_query": "My landlord cut off my water supply to make me leave. What are my rights?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H23",
+      "category": "holdout",
+      "lang": "en",
+      "question": "My landlord gave me the house only on a verbal agreement. Is that valid?",
+      "gold": [
+        "CGRCA|Section 4"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Section 4",
+        "CGRCA|Section 2",
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 3",
+        "CGRCA|Schedule 1"
+      ],
+      "top_score": -4.503065586090088,
+      "search_query": "My landlord gave me the house only on a verbal agreement. Is that valid?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H24",
+      "category": "holdout",
+      "lang": "en",
+      "question": "Landlord says he will evict me next month because he wants the house for his son. Is that allowed?",
+      "gold": [
+        "CGRCA|Schedule 2",
+        "CGRCA|Schedule 3"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CGRCA|Schedule 2",
+        "CGRCA|Section 2",
+        "CGRCA|Schedule 3",
+        "CGRCA|Section 12",
+        "CGRCA|Section 5"
+      ],
+      "top_score": -2.1309664249420166,
+      "search_query": "Landlord says he will evict me next month because he wants the house for his son. Is that allowed?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H25",
+      "category": "holdout",
+      "lang": "en",
+      "question": "I cannot afford a lawyer. Who can get free legal help?",
+      "gold": [
+        "LSAA|Section 12",
+        "LSAA|Section 13"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "LSAA|Section 12",
+        "LSAA|Section 13",
+        "LSAA|Section 11A",
+        "LSAA|Section 24",
+        "LSAA|Section 6"
+      ],
+      "top_score": -5.11111307144165,
+      "search_query": "I cannot afford a lawyer. Who can get free legal help?",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H26",
+      "category": "holdout",
+      "lang": "hinglish",
+      "question": "hamare gaon mein Lok Adalat kya hota hai aur kya uska faisla final hota hai?",
+      "gold": [
+        "LSAA|Section 21",
+        "LSAA|Section 19",
+        "LSAA|Section 20"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "LSAA|Section 22E",
+        "LSAA|Section 21",
+        "LSAA|Section 22D",
+        "LSAA|Section 19",
+        "LSAA|Section 22"
+      ],
+      "top_score": 0.6877395510673523,
+      "search_query": "What is a Lok Adalat in our village, and is its decision final?",
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.5
+    },
+    {
+      "id": "H27",
+      "category": "holdout",
+      "lang": "hinglish",
+      "question": "mujhe 3 mahine se salary nahi mili, company wale baat nahi sun rahe",
+      "gold": [
+        "PWA|Section 5",
+        "PWA|Section 15"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "PWA|Section 15",
+        "PWA|Section 1",
+        "CGRCA|Section 11",
+        "PWA|Section 26",
+        "CGRCA|Schedule 2"
+      ],
+      "top_score": -3.378779649734497,
+      "search_query": "I have not received my salary for three months, and the employer is not listening to me.",
+      "hit@1": true,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 1.0
+    },
+    {
+      "id": "H28",
+      "category": "holdout",
+      "lang": "hi",
+      "question": "दुकानदार ने ख़राब मोबाइल बेचा और पैसे वापस नहीं कर रहा",
+      "gold": [
+        "CPA|Section 39",
+        "CPA|Section 35",
+        "CPA|Section 2(10)"
+      ],
+      "mode": "any",
+      "should_defer": false,
+      "retrieved": [
+        "CPA|Section 2(47)",
+        "CPA|Section 82",
+        "CPA|Section 39",
+        "CPA|Section 83",
+        "CPA|Section 2(34)"
+      ],
+      "top_score": -1.274958610534668,
+      "search_query": "Did the shopkeeper sell a defective mobile and refuse to refund the money?",
+      "hit@1": false,
+      "hit@3": true,
+      "hit@5": true,
+      "rr": 0.3333333333333333
+    }
+  ]
+}

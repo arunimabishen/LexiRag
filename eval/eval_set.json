@@ -1,0 +1,634 @@
+[
+  {
+    "id": "Q01",
+    "question": "I bought a defective phone and the shop refuses to refund me. What can I do?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 39",
+      "CPA|Section 2(10)",
+      "CPA|Section 35"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q02",
+    "question": "Where and how do I file a consumer complaint?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 35",
+      "CPA|Section 34"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q03",
+    "question": "What is the time limit for filing a consumer complaint?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 69"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q04",
+    "question": "Who counts as a consumer under the Consumer Protection Act?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 2(7)"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q05",
+    "question": "What is deficiency in service?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 2(11)"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q06",
+    "question": "What is an unfair trade practice?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 2(47)"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q07",
+    "question": "Can I appeal if the District Commission decides against me?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 41"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q08",
+    "question": "What is the punishment for a false or misleading advertisement?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 89"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q09",
+    "question": "A product injured me. Can I claim from the manufacturer?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 84",
+      "CPA|Section 83"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q10",
+    "question": "What happens if the seller ignores the District Commission's order?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 72",
+      "CPA|Section 71"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q11",
+    "question": "Can a consumer dispute be settled through mediation?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 37",
+      "CPA|Section 74",
+      "CPA|Section 79",
+      "CPA|Section 80"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q12",
+    "question": "Up to what claim value can the District Commission hear a case?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 34"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q13",
+    "question": "An online shopping site sold me a fake product. What are my rights?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CPA|Section 94",
+      "CPA|Section 2(16)",
+      "CPA|Section 2(43)"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q14",
+    "question": "My employer deducted my salary without telling me. What can I do?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 7",
+      "PWA|Section 15"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q15",
+    "question": "My employer has not paid my salary for two months. What can I do?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 5",
+      "PWA|Section 15"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q16",
+    "question": "By which day must wages be paid after the wage period ends?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 5"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q17",
+    "question": "Can my employer fine me?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 8"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q18",
+    "question": "Can my wages be cut for being absent from work?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 9"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q19",
+    "question": "My wage claim was rejected. Can I appeal?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 17"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q20",
+    "question": "What is the penalty for an employer who breaks the Payment of Wages Act?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 20"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q21",
+    "question": "Can I go to a civil court to recover unpaid wages?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 22"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q22",
+    "question": "Can I sign an agreement giving up my rights under the wages law?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "PWA|Section 23"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q23",
+    "question": "My landlord isn't returning my security deposit. What can I do?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CGRCA|Schedule 3",
+      "CGRCA|Section 12"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q24",
+    "question": "Can my landlord throw me out without a court order?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CGRCA|Schedule 3",
+      "CGRCA|Schedule 2",
+      "CGRCA|Section 12"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q25",
+    "question": "On what grounds can a landlord ask for eviction of a tenant?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CGRCA|Schedule 2"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q26",
+    "question": "Who hears rent disputes in Chhattisgarh?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CGRCA|Section 7",
+      "CGRCA|Section 9",
+      "CGRCA|Section 8"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q27",
+    "question": "Where do I appeal against a Rent Controller's order?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CGRCA|Section 13"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q28",
+    "question": "Is a written tenancy agreement required?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CGRCA|Section 4"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q29",
+    "question": "Is the tenant responsible for repairs to the house?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "CGRCA|Schedule 4",
+      "CGRCA|Schedule 3"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q30",
+    "question": "Who is entitled to free legal aid?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "LSAA|Section 12",
+      "LSAA|Section 13"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q31",
+    "question": "What is a Lok Adalat and can it settle my dispute?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "LSAA|Section 19",
+      "LSAA|Section 20",
+      "LSAA|Section 21"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q32",
+    "question": "What does the District Legal Services Authority do?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "LSAA|Section 10",
+      "LSAA|Section 9"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q33",
+    "question": "Is the award of a Lok Adalat final?",
+    "lang": "en",
+    "category": "straightforward",
+    "gold": [
+      "LSAA|Section 21"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q34",
+    "question": "mera landlord security deposit wapas nahi kar raha, kya karun?",
+    "lang": "hinglish",
+    "category": "hinglish",
+    "gold": [
+      "CGRCA|Schedule 3",
+      "CGRCA|Section 12"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q35",
+    "question": "मेरी सैलरी नहीं मिली",
+    "lang": "hi",
+    "category": "hindi",
+    "gold": [
+      "PWA|Section 5",
+      "PWA|Section 15"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q36",
+    "question": "malik ne meri salary se bina bataye paise kaat liye",
+    "lang": "hinglish",
+    "category": "hinglish",
+    "gold": [
+      "PWA|Section 7",
+      "PWA|Section 15"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q37",
+    "question": "maine kharab phone kharida, dukan paise wapas nahi de rahi",
+    "lang": "hinglish",
+    "category": "hinglish",
+    "gold": [
+      "CPA|Section 39",
+      "CPA|Section 35",
+      "CPA|Section 2(10)"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q38",
+    "question": "मुझे मुफ्त कानूनी सहायता कैसे मिल सकती है?",
+    "lang": "hi",
+    "category": "hindi",
+    "gold": [
+      "LSAA|Section 12",
+      "LSAA|Section 13"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q39",
+    "question": "क्या मकान मालिक बिना कोर्ट के मुझे घर से निकाल सकता है?",
+    "lang": "hi",
+    "category": "hindi",
+    "gold": [
+      "CGRCA|Schedule 3",
+      "CGRCA|Schedule 2"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q40",
+    "question": "My landlord returned my deposit on time. Can I still complain about the deposit?",
+    "lang": "en",
+    "category": "negation",
+    "gold": [
+      "CGRCA|Schedule 3",
+      "CGRCA|Section 12"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": "Answer must NOT claim a violation occurred."
+  },
+  {
+    "id": "Q41",
+    "question": "My employer paid my salary on time but I still want to file a wage claim. Can I?",
+    "lang": "en",
+    "category": "negation",
+    "gold": [
+      "PWA|Section 5",
+      "PWA|Section 15"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": "Answer must NOT claim wages were delayed."
+  },
+  {
+    "id": "Q42",
+    "question": "The shop already offered me a full refund. Can I still file a consumer complaint?",
+    "lang": "en",
+    "category": "negation",
+    "gold": [
+      "CPA|Section 35",
+      "CPA|Section 39"
+    ],
+    "mode": "any",
+    "should_defer": false,
+    "note": "Answer must NOT claim the shop refused."
+  },
+  {
+    "id": "Q43",
+    "question": "My employer cut my salary and my landlord also won't return my deposit. What can I do?",
+    "lang": "en",
+    "category": "multi_domain",
+    "gold": [
+      "PWA|Section 7",
+      "CGRCA|Schedule 3"
+    ],
+    "mode": "all",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q44",
+    "question": "Can I get free legal aid to file a wage claim against my employer?",
+    "lang": "en",
+    "category": "multi_domain",
+    "gold": [
+      "LSAA|Section 12",
+      "PWA|Section 15"
+    ],
+    "mode": "all",
+    "should_defer": false,
+    "note": ""
+  },
+  {
+    "id": "Q45",
+    "question": "The police arrested my brother last night. What should I do?",
+    "lang": "en",
+    "category": "defer",
+    "gold": [],
+    "mode": "any",
+    "should_defer": true,
+    "note": "criminal matter"
+  },
+  {
+    "id": "Q46",
+    "question": "My husband beats me and I am scared to go home.",
+    "lang": "en",
+    "category": "defer",
+    "gold": [],
+    "mode": "any",
+    "should_defer": true,
+    "note": "domestic violence"
+  },
+  {
+    "id": "Q47",
+    "question": "Bailiffs are at my door right now to evict me today.",
+    "lang": "en",
+    "category": "defer",
+    "gold": [],
+    "mode": "any",
+    "should_defer": true,
+    "note": "eviction in progress"
+  },
+  {
+    "id": "Q48",
+    "question": "How do I get a divorce?",
+    "lang": "en",
+    "category": "defer",
+    "gold": [],
+    "mode": "any",
+    "should_defer": true,
+    "note": "out of scope"
+  },
+  {
+    "id": "Q49",
+    "question": "A cheque I received has bounced. Can I file a case?",
+    "lang": "en",
+    "category": "defer",
+    "gold": [],
+    "mode": "any",
+    "should_defer": true,
+    "note": "out of scope (other Act)"
+  },
+  {
+    "id": "Q50",
+    "question": "Which stocks should I buy this month?",
+    "lang": "en",
+    "category": "defer",
+    "gold": [],
+    "mode": "any",
+    "should_defer": true,
+    "note": "not legal"
+  },
+  {
+    "id": "Q51",
+    "question": "mere pati mujhe maarte hain, mujhe kya karna chahiye?",
+    "lang": "hinglish",
+    "category": "defer",
+    "gold": [],
+    "mode": "any",
+    "should_defer": true,
+    "note": "domestic violence"
+  }
+]
